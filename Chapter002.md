@@ -53,7 +53,7 @@ flowchart LR
 
 ### 1. 基本定义
 
-CTP（Comprehensive Transaction Platform）是上海期货交易所（SHFE）下属的子公司上海期货信息技术有限公司（SFIT），简称上期技术，自主研发的期货/期权综合交易平台。官网是https://www.shfe.com.cn/sfit/，它是中国期货市场最核心的交易系统，支持期货公司、投资者、做市商等机构接入交易所进行交易、行情获取和风险控制。
+CTP（Comprehensive Transaction Platform）是上海期货交易所（SHFE）下属的子公司上海期货信息技术有限公司（SFIT），简称上期技术，自主研发的期货/期权综合交易平台。[上期技术官网](https://www.shfe.com.cn/sfit/)，它是中国期货市场最核心的交易系统，支持期货公司、投资者、做市商等机构接入交易所进行交易、行情获取和风险控制。
 
 ### 2. 核心功能
 
@@ -170,7 +170,7 @@ flowchart LR
 
 - 测试与部署：
 
-  使用模拟盘（SimNow）测试，官网是：https://www.simnow.com.cn
+  使用模拟盘（SimNow）测试，[SimNow官网](https://www.simnow.com.cn/)
 
   生产环境接入期货公司实盘系统。
 
