@@ -19,8 +19,8 @@
 
 ### 第一阶段：筑基篇 - 量化思维与工具准备
 
-- `Chapter001`：程序化交易与量化交易的概念
-- `Chapter002`：CTP和CTP API的概念
+- `Chapter001`：[程序化交易与量化交易的概念](Chapter001_程序化交易与量化交易的概念.md)
+- `Chapter002`：[CTP和CTP API的概念](Chapter002_CTP和CTP API的概念.md)
 
 ......
 
@@ -38,9 +38,13 @@
 
 ## 📄 许可证
 
-本项目采用 [[Apache-2.0 license](http://www.apache.org/licenses/)] 开源协议，但**交易有风险，据此操作盈亏自负**。
+本项目采用 [Apache-2.0 license](http://www.apache.org/licenses/) 开源协议，但**交易有风险，据此操作盈亏自负**。
 
 ## 📬 联系方式
 
 - 作者：Lumosylva
 - *交流群：446042777*
+
+---
+
+*Last updated: 2026-03-09*
