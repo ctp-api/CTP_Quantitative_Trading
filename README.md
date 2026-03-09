@@ -20,7 +20,7 @@
 ### 第一阶段：筑基篇 - 量化思维与工具准备
 
 - `Chapter001`：[程序化交易与量化交易的概念](Chapter001_程序化交易与量化交易的概念.md)
-- `Chapter002`：[CTP和CTP API的概念](Chapter002%20CTP和CTP API的概念.md)
+- `Chapter002`：[CTP和CTP API的概念]("Chapter002 CTP和CTP API的概念.md")
 
 ......
 
