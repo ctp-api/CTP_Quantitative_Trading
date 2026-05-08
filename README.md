@@ -1,50 +1,59 @@
-# 期货量化交易从入门到实战教程
+<h1 align="center">Futures Quantitative Trading: A Tutorial from Basics to Practical Application</h1>
 
-## 📌 项目简介
+<p align="center">
+✨ Empowering You to Enter Quantitative Futures Trading from Scratch ✨
+</p>
 
-本教程旨在帮助交易者系统地掌握期货量化交易的核心技能。
 
-在期货市场中，量化交易（解决“怎么想”的问题，即策略逻辑）与程序化交易（解决“怎么做”的问题，即自动执行）相辅相成。本教程将从零开始，带你跨越单纯依赖盘感的主观交易阶段，构建属于自己的量化交易体系。
 
-无论你是想转型量化的主观期货交易员，还是刚入门的高校学生，这里都有适合你的内容。
+<p align="center">
+  English |
+  <a href="README_CN.md">简体中文</a>
+</p>
 
-## ✨ 教程特点
+## 📌 Project Overview
 
-- 实战导向：拒绝空谈理论，每一章都配有可运行的代码示例。
-- 专注市场：内容紧贴国内期货市场（CTP协议、夜盘处理、tick数据复权等）。
-- 逻辑清晰：严格区分策略研究（量化）与系统搭建（程序化），帮助你建立正确的认知框架。
-- 持续更新：跟随市场变化和新的Python技术栈不断迭代。
+This tutorial aims to help traders systematically master the core skills of quantitative futures trading.
 
-## 📚 目录
+In the futures market, quantitative trading (which addresses the question of "how to think"—i.e., strategy logic) and algorithmic trading (which addresses the question of "how to act"—i.e., automated execution) complement each other. Starting from scratch, this tutorial will guide you beyond the stage of subjective trading—which relies solely on market intuition—and help you build your own quantitative trading system.
 
-### 第一阶段：筑基篇 - 量化思维与工具准备
+Whether you are a subjective futures trader looking to transition into quantitative methods, or a university student just getting started, you will find content here that is suitable for you.
 
-- `Chapter001`：[程序化交易与量化交易的概念](Chapter001.md)
-- `Chapter002`：[CTP和CTP API的概念](Chapter002.md)
+## ✨ Tutorial Features
+
+- **Practice-Oriented:** No empty theoretical talk; every chapter is accompanied by executable code examples.
+- **Market-Focused:** The content is closely aligned with the domestic futures market (covering topics such as the CTP protocol, night session handling, tick data adjustment, etc.).
+- **Logical Clarity:** Strictly distinguishes between strategy research (quantitative) and system construction (algorithmic), helping you establish a correct conceptual framework.
+- **Continuous Updates:** Constantly iterated to keep pace with market changes and new Python technology stacks.
+
+## 📚 Table of Contents
+
+### Phase 1: Building the Foundation — Quantitative Mindset and Tool Preparation
+
+- `Chapter001`: [Concepts of Algorithmic Trading vs. Quantitative Trading](Chapter001.md)
+- `Chapter002`: [Concepts of CTP and the CTP API](Chapter002.md)
 
 ......
 
-## 📖 如何使用本教程
+## 📖 How to Use This Tutorial
 
-- **如果你是初学者**：建议按顺序从`Chapter001`开始阅读，同时运行配套代码。
-- **如果你是有经验的交易员**：可以直接跳转到你感兴趣的章节（如实盘对接），但建议先浏览一遍基础概念部分，确保术语理解一致。
+- **If you are a beginner:** It is recommended that you read the chapters in order, starting from `Chapter001`, while simultaneously running the accompanying code examples.
+- **If you are an experienced trader:** You may jump directly to the chapters that interest you (e.g., live trading integration); however, it is still recommended that you briefly review the basic concepts section first to ensure a consistent understanding of the terminology.
 
-## 🤝 参与贡献
+## 🤝 Contributing
 
-教程难免有疏漏之处，欢迎指正：
+Inevitably, there may be omissions or errors in this tutorial; your corrections are welcome:
 
-- 如果发现代码Bug或文字错误，欢迎提交 **Issue** 或 **Pull Request**。
-- 如果你有好的策略思路或实战经验，欢迎通过联系方式与我交流。
+- If you discover any code bugs or textual errors, please feel free to submit an **Issue** or a **Pull Request**.
+- If you have any great strategy ideas or practical trading experiences to share, please feel free to reach out to me via the contact details provided. ## 📄 License
 
-## 📄 许可证
+This project is licensed under the [Apache-2.0 license](http://www.apache.org/licenses/). However, **trading involves risk; any actions taken based on this project are at your own risk, and you assume full responsibility for any resulting profits or losses.**
 
-本项目采用 [Apache-2.0 license](http://www.apache.org/licenses/) 开源协议，但**交易有风险，据此操作盈亏自负**。
+## 📬 Contact Information
 
-## 📬 联系方式
-
-- 作者：Lumosylva
-- *交流群：446042777*
+- Author: Lumosylva
+- Discussion Group: [![QQ Group](https://img.shields.io/badge/QQ%20Group%231-Join-blue)](https://qun.qq.com/universal-share/share?ac=1&authKey=dzGDk%2F%2Bpy%2FwpVyR%2BTrt9%2B5cxLZrEHL793cZlFWvOXuV5I8szMnOU4Wf3ylap7Ph0&busi_data=eyJncm91cENvZGUiOiI0NDYwNDI3NzciLCJ0b2tlbiI6IlFrM0ZhZmRLd0xIaFdsZE9FWjlPcHFwSWxBRFFLY2xZbFhaTUh4K2RldisvcXlBckZ4NVIrQzVTdDNKUFpCNi8iLCJ1aW4iOiI4MjEzMDAwNzkifQ%3D%3D&data=O1Bf7_yhnvrrLsJxc3g5-p-ga6TWx6EExnG0S1kDNJTyK4sV_Nd9m4p-bkG4rhj_5TdtS5lMjVZRBv4amHyvEA&svctype=4&tempid=h5_group_info)
 
 ---
 
-*Last updated: 2026-03-09*
+*Last updated: 2026-05-08*
